@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATMmachine/ATMmachine.iml" filepath="$PROJECT_DIR$/ATMmachine/ATMmachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coffemachine/Coffemachine.iml" filepath="$PROJECT_DIR$/Coffemachine/Coffemachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Digitalwatch/Digitalwatch.iml" filepath="$PROJECT_DIR$/Digitalwatch/Digitalwatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab3.iml" filepath="$PROJECT_DIR$/.idea/Lab3.iml" />
+    </modules>
+  </component>
+</project>
