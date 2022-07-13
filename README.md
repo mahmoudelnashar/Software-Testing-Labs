@@ -1,1 +1,1 @@
-# Software Testing Lab Assignments
+# Software Testing Lab Assignments (Junior -Spring 2022)
