@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/TimeFSM" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/evenorodd" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/max_min_array" vcs="Git" />
-  </component>
-</project>
